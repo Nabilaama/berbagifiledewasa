@@ -28,9 +28,9 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
-
-#### Deploy in your VPS
+<  arfinew  :  Menguasai  pada  26  Jun
+saya
+#### Terapkan di VPS Anda
 ````bash
 git clone https://github.com/mrismanaziz/File-Sharing-Man
 cd File-Sharing-Man

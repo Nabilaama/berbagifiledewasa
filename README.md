@@ -32,7 +32,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/mrismanaziz/File-Sharing-Man
+git clone https://github.com/arfinew/servicev
 cd File-Sharing-Man
 pip3 install -r requirements.txt
 cp sample_config.env config.env
